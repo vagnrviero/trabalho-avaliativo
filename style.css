@@ -1,20 +1,20 @@
 
 body{
-    background-color: hsl(136, 36%, 32%);
-    color: rgb(8, 51, 37);
+    background-color: hsl(0, 0%, 92%);
+    color: rgb(60, 116, 168);
     text-align: center;
     font-size: 20px;
     padding: 0 24px;
 }
 
-.texto-um{
-    color: #FFA500;
+.texto-1{
+    color:#455985;
 font-size: 24px;
 
 }
 
 .texto-dois{
-    color: #FFA500;
+    color: #134e86;
     font-size: 24px;
 }
 .paragrafo{
@@ -25,10 +25,10 @@ font-size: 24px;
     text-align: center;
     display: grid;
     font-size: 18px;
-    color: black;
+    color: rgb(121, 9, 46);
 }
 .imagem{
-    width: 60%;
+    width: 70%;
 }
 .linha{
     border-bottom: 1px solid#808080;
